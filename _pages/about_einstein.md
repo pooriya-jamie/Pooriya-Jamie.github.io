@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! I'm Pooriya Jamie, a computer science enthusiast deeply passionate about machine learning, data science, human-computer interaction (HCI), and algorithm theory. My journey in academia has provided me with invaluable experiences, particularly as a research assistant in both the realms of ML and HCI.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Proficient in C++ and Python programming languages, I possess robust analytical and problem-solving skills. I thrive when faced with intricate challenges, constantly seeking innovative solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you're keen on collaborating on research endeavors or educational projects, I'm eager to connect with you. Let's explore how our shared interests and expertise can pave the way for exciting opportunities in these dynamic fields.
