@@ -11,11 +11,10 @@ profile:
   more_info: >
     <p>Tehran, Iran</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 
 Hello there! I'm Pooriya Jamie, a computer science enthusiast deeply passionate about machine learning, data science, human-computer interaction (HCI), and algorithm theory. My journey in academia has provided me with invaluable experiences, particularly as a research assistant in both the realms of ML and HCI.
 
